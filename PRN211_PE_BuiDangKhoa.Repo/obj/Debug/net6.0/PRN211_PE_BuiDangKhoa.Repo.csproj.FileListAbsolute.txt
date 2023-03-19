@@ -1,0 +1,14 @@
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\bin\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.deps.json
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\bin\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.runtimeconfig.json
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\bin\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.dll
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\bin\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.pdb
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.csproj.AssemblyReference.cache
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.AssemblyInfoInputs.cache
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.AssemblyInfo.cs
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.csproj.CoreCompileInputs.cache
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.dll
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\refint\PRN211_PE_BuiDangKhoa.Repo.dll
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.pdb
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\PRN211_PE_BuiDangKhoa.Repo.genruntimeconfig.cache
+D:\codeDemo\Solution1\PRN211_PE_BuiDangKhoa.Repo\obj\Debug\net6.0\ref\PRN211_PE_BuiDangKhoa.Repo.dll
